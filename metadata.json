@@ -1,0 +1,7 @@
+{
+  "name": "InstaFiltros",
+  "description": "Capture, edite e compartilhe momentos especiais com filtros, molduras e frases.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
